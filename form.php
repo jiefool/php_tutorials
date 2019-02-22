@@ -2,4 +2,6 @@
 
 echo 'jiefool';
 
+echo 'aying';
+
 ?>
